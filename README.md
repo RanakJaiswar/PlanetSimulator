@@ -5,4 +5,4 @@
 ![](https://github.com/RanakJaiswar/PlanetSimulator/blob/main/planet_simulator/planetsimulator.png)
 
 ## Reference:
-  [](https://fiftyexamples.readthedocs.io/en/latest/gravity.html)
+  [fiftyexamples.readthedocs.io](https://fiftyexamples.readthedocs.io/en/latest/gravity.html)
